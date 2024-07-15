@@ -14,7 +14,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/KeyWatch.git
+git@github.com:WEB-BLEACHERZ/KeyWatch.git
 cd KeyWatch
 Install Dependencies:
 
